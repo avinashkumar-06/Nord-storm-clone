@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#top-black-box{
+    background-color: black;
+    color: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: 16px;
+    /* position: relative; */
+}
+
+
+#top-black-box>p:nth-child(1){
+
+    margin-right: 5px;
+    font-weight: bold;
+    font-family: Brandon Text,Arial,sans-serif;
+}
+
+
+#top-black-box>p:nth-child(2){
+    font-family: Brandon Text,Arial,sans-serif;
+    text-decoration: underline;
+}
+
+#navbar-india-div{
+    display: flex;
+    position: absolute;
+    right: 10%;
+    font-family: Brandon Text,Arial,sans-serif;
+    
+
+}
+
+#navbar-india-div>img{
+    border-radius: 50px;
+    margin-right: 3px;
+}
+
+
+#botttom-navbar{
+    display: flex;
+    height: 100px;
+    width: 97%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* border: 1px solid; */
+}
+
+
+#botttom-navbar>img{
+    width: 200px;
+}
+
+#search-bar{
+    width: 40%;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    border: 1px solid gray ;
+    padding-left: 10px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 2px 0px;
+   
+   
+}
+
+.search-logo{
+    color: gray;
+}
+
+
+#search-bar>input{
+
+    height: 100%;
+    width: 100%;
+    border: none;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+#bottom-navbar-last{
+    display: flex;
+    align-items: center;
+    width: 7%;
+    justify-content: space-between;
+}
+
+#bottom-navbar-last>img{
+    width: 40px;
+}
+
+#bottom-navbar-last>p{
+    font-family: 'Brandon Text','Arial','sans-serif';
+}
+
+
+#last-navbar{
+    width: 84%;
+    height: 20px;
+    border-top:2px solid lightgrey;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    /* border: 1px solid red; */
+}
+
+#last-navbar>p{
+    
+    font-size: 16px;
+    /* border: 1px solid teal; */
+    font-family: 'Brandon Text','Arial','sans-serif';
+    color: #333333;
+}
+
+#last-navbar>p:hover{
+    /* text-decoration: underline; */
+    cursor: pointer;
+    padding-bottom: 3px;
+    border-bottom: 2px solid black;
+}
+

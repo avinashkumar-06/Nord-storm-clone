@@ -1,0 +1,114 @@
+ProductsDataIndexPage=[
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/022d2ec2-6e7e-4a00-a9ad-53d43d1bfd6e.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "both",
+category:"makeup",
+price: 9806,
+name: ,
+brand:"Perricone MD" ,
+strikedPrice:8126,
+},
+
+
+
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/f3ba3b22-4941-41b4-ba58-003bd823d8c6.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "female",
+category:"footwear",
+price: 4062,
+name: ,
+brand:"Vince Camuto" ,
+strikedPrice:8126,
+},
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/20355c24-e297-4a47-a6fb-1d0dc4fc2c9d.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "female",
+category:"footwear",
+price: 5420,
+name: ,
+brand:"Vince Camuto" ,
+strikedPrice:9030,
+},
+
+{
+imageUrl:https://n.nordstrommedia.com/id/sr3/078d4dff-54c8-40a3-9bee-1b0d696f4391.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "female",
+category:"footwear",
+price: 4555,
+name: ,
+brand:"Vince Camuto" ,
+strikedPrice:9112,
+},
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/f3673460-6d7b-414d-942c-4ff34ae96e90.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "female",
+category:"footwear",
+price: 5011,
+name: ,
+brand:"Vince Camuto" ,
+strikedPrice:8547,
+},
+{
+imageUrl:" https://n.nordstrommedia.com/id/sr3/02fd5aef-7592-4273-b301-80af1420d72e.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "female",
+category:"footwear",
+price: 5417,
+name: ,
+brand:"Vince Camuto" ,
+strikedPrice:9030,
+},
+{
+imageUrl:" https://n.nordstrommedia.com/id/sr3/acfd6f82-b6a6-42b0-b813-62d75b929f0a.jpeg?q=45&dpr=2&h=365.31&w=230 ",
+gender: "both",
+category:"makeup",
+price: 12319,
+name: ,
+brand:"Guerlain" ,
+strikedPrice:17546,
+},
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/9efd36a0-917a-4be6-bb21-f2025076a046.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "both",
+category:"makeup",
+price: 1609,
+name: ,
+brand:"Mario Badescu" ,
+strikedPrice:2299,
+},
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/86cd8d4c-163f-47dc-b794-7bee98b90448.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "both",
+category:"makeup",
+price: 2463,
+name: ,
+brand:"kai" ,
+strikedPrice:3205,
+},
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/4882d345-670e-4200-9ada-27ced02f7536.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "both",
+category:"makeup",
+price: 14457,
+name: ,
+brand:"ReVive" ,
+strikedPrice:19300,
+},
+
+
+{
+imageUrl:"https://n.nordstrommedia.com/id/sr3/738e60b2-d085-4fc3-a47e-8556f1c923a4.jpeg?q=45&dpr=2&h=365.31&w=230",
+gender: "both",
+category:"makeup",
+price: 2340,
+name: ,
+brand:"Kai" ,
+strikedPrice:3120,
+}
+]

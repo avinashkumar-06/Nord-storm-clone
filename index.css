@@ -1,0 +1,217 @@
+*{
+    font-family:  'Brandon Text','Arial','sans-serif';
+  }
+
+
+
+
+#signin-intro-div{
+  
+    /* border:1px solid red; */
+    width: 60%;
+    margin:-20px auto;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    /* text-align: center; */
+   
+
+}
+
+#signin-intro-div>h3{
+    font-size: 21px;
+    font-family:  'Brandon Text','Arial','sans-serif';
+    color: #393939;
+}
+#signin-intro-div>button{
+    margin-top: -45px;
+    background-color: white;
+    padding: 10px 30px;
+    color: #393939;
+    border-color: #000;
+    font-size: 15px;  
+    border-width: 1px;
+}
+
+#signin-intro-div>button:hover{
+   border: none;
+   background-color: rgb(230, 230, 230);
+}
+
+#signinButton{
+  cursor: pointer;
+}
+.carousel-cell {
+    width: 100%;
+    }
+
+    /* cell number */
+    .carousel-cell:before {
+      display: block;
+    }
+
+
+    .slider1{
+
+      width: 85%;
+      margin: auto;
+
+    }
+    .slide1{
+      background-image: url("https://n.nordstrommedia.com/id/44648fdb-be56-4600-addb-6d3c7ba21f2c.jpeg?h=200&w=1608");
+      height: 199px;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      position: relative;
+    
+  
+    }
+    .slide2{
+      background-image: url("https://n.nordstrommedia.com/id/8d7b4e36-aaac-4320-a8ad-debe74dacf0c.jpeg?h=200&w=1608");
+      height: 199px;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      position: relative;
+    
+    }
+
+    #insideSlide1{
+     position: absolute;
+     left: 25%;
+     top: 35%;
+
+    }
+    #insideSlide1>h2{
+      font-size: 21px;
+    }
+
+    #insideSlide1>p{
+      font-size: 15px;
+      margin-top: 5px;
+    }
+    #insideSlide1>:nth-child(3){
+      text-decoration: underline;
+    }
+
+    
+    #insideSlide2{
+      position: absolute;
+      left: 15%;
+      top: 23%;
+ 
+     }
+
+     #insideSlide2>h2{
+      font-size: 21px;
+    }
+
+    #insideSlide2>p{
+      font-size: 15px;
+      margin-top: 8px;
+    }
+    #insideSlide2>:nth-child(3){
+      text-decoration: underline;
+    }
+
+    .slider2{
+
+      width: 85%;
+      margin: 50px auto;
+      /* border: 1px solid red; */
+      height: 600px;
+    }
+
+    .slider2-slide1{
+      height: 100%;
+      display: flex;
+      background-image: url("https://n.nordstrommedia.com/id/2749ff69-f124-4d9d-bb10-993652799a79.jpeg?h=700&w=1608");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      position: relative;
+    }
+
+    .slider2-slide1-textDiv{
+
+      position: absolute;
+      top: 30%;
+      right: 3%;
+      width: 30%;
+
+    }
+
+    .slider2-slide1-textDiv>h2{
+      font-size: 29px;
+      margin-bottom: 8px;
+
+    }
+
+
+    .slider2-slide1-textDiv>p{
+      font-size: 15px;
+    }
+    .slider2-slide1-textDiv>:nth-child(3){
+      margin-top: 20px;
+      text-decoration: underline;
+    }
+    
+    
+    .slider2-slide2{
+      height: 100%;
+      display: flex;
+      background-image: url("https://n.nordstrommedia.com/id/691f346b-379c-47cd-a614-6aabd4ed8be7.jpeg?h=700&w=1608");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      position: relative;
+    }
+
+
+    .slider2-slide2-textDiv{
+
+      position: absolute;
+      top: 30%;
+      right: 3%;
+      width: 30%;
+
+    }
+
+    .slider2-slide2-textDiv>h2{
+      font-size: 29px;
+      margin-bottom: 8px;
+
+    }
+
+
+    .slider2-slide2-textDiv>p{
+      font-size: 15px;
+    }
+    .slider2-slide2-textDiv>:nth-child(3){
+      margin-top: 20px;
+      text-decoration: underline;
+    }
+
+.greatDealsDiv{
+  width: 80%;
+  margin: 50px auto;
+}
+
+.greatDealsDiv>h1{
+  font-size:25px;
+  color: #393939;
+  margin-bottom: 6px;
+}
+.greatDealsDiv>p{
+  font-size:15px;
+  color: #393939;
+}
+
+
+
+.slider3{
+
+  width: 85%;
+  border: 1px solid green;
+  margin: auto;
+
+}

@@ -1,0 +1,43 @@
+#loginBox{
+   
+    margin: 150px auto;
+    width: 500px;
+     display: flex;
+    justify-content: center;
+    
+   
+
+}
+.grayClass{
+    color: #393939;
+}
+.lightClass{
+    font-weight: lighter;
+    margin-bottom: 30px;
+}
+#email{
+    margin-top: 20px;
+    font-weight: bold;
+    color: rgb(39, 38, 38);
+    margin-bottom: 20px;
+}
+#emailInput{
+    width: 400px;
+    height: 30px;
+    font-size: 15px;
+  
+}
+#next{
+    margin-top: 25px;
+    width: 400px;
+}
+
+#nextBtn{
+    width: 410px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-top: 25px;
+    border: none;
+}
+
